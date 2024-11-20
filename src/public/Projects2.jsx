@@ -81,7 +81,7 @@ const Projects2 = () => {
             A Machine Learning model was trained to classify images of household waste
             using Tensorflow and the Keras ResNet101v2 model.
             </p>
-            <p className='font-heading mb-4 text-lg sm:text-2xl text-black tracking-tight text-center sm:text-justify'>
+            <p className='font-heading mb-12 text-lg sm:text-2xl text-black tracking-tight text-center sm:text-justify'>
             The app was built using HTML/CSS, Javascript, Node.js, MongoDB, and Cloudinary.
             The developers held a scrum session with a product manager to discuss feature progress and roadblocks.
             </p>
