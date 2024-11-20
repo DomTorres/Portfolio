@@ -18,7 +18,7 @@ const Parallax = () => {
     >
       <motion.h1 
         style={{ y: textY }}
-        className='font-heading text-white text-9xl tracking-tight absolute top-48 md:text-9xl z-10'>
+        className='font-heading text-white text-9xl tracking-tight absolute top-40 md:text-9xl z-10'>
         Hi! I'm Dom Torres.
       </motion.h1>
 
