@@ -26,7 +26,7 @@ const Parallax = () => {
         className='absolute inset-0 z-0'
         style={{
             y: backgroundY,
-            backgroundImage: `url(/vancouver.jpg)`,
+            backgroundImage: `url(https://domtorres.github.io/portfolio/vancouver.jpg)`,
             backgroundPosition: 'top',
             backgroundSize: 'cover' 
         }}
@@ -35,7 +35,7 @@ const Parallax = () => {
       <div 
         className='absolute inset-0 z-20'
         style={{
-            backgroundImage: `url(/vancouver-without-bg.png)`,
+            backgroundImage: `url(https://domtorres.github.io/portfolio/vancouver-without-bg.png)`,
             backgroundPosition: 'top',
             backgroundSize: 'cover'   
         }}
